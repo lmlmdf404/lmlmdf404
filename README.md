@@ -46,15 +46,6 @@
       </td>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
 </table>
 
 <table>
