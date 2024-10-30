@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="ttp://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lmlmdf404&theme=default&utcOffset=8">
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmlmdf404&theme=default">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
         </a>
       </td>
