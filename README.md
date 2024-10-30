@@ -53,7 +53,7 @@
     <tr>
       <th>
         <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmlmdf404&theme=2077">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmlmdf404&theme=2077&theme=dracula"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmlmdf404&theme=2077"/>
         </a>
       </th>
       <th>
