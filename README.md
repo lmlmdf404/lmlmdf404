@@ -41,7 +41,7 @@
     <tr>
       <td>
         <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmlmdf404&theme=default">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+          <img width="715" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmlmdf404&theme=default"/>
         </a>
       </td>
     </tr>
