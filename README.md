@@ -52,8 +52,8 @@
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmlmdf404&theme=2077">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmlmdf404&theme=2077&theme=dracula"/>
         </a>
       </th>
       <th>
